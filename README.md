@@ -1,6 +1,6 @@
 # consumo-API
  Foi realizado teste de consumo de API para aprendizado pessoal
-## Foi utilizado
+## Foi utilizado neste projeto
 ~~~HTML 
 Foi utilizado HTML5 E CSS
 ~~~
